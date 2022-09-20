@@ -17,3 +17,7 @@ To learn more about Knative, please visit our
 
 If you are interested in contributing, see [CONTRIBUTING.md](./CONTRIBUTING.md)
 and [DEVELOPMENT.md](./DEVELOPMENT.md).
+
+## !! NOT intended for upstream merge
+
+This is a **dummy update** to allow me to submit a PR on my fork and test the /auto-cc command from the blunderbuss plugin launched by Prow Github Actions. If you have been assigned to this PR pls ignore and I thank you for your patience, @RobertKielty
